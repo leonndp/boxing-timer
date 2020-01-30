@@ -1,5 +1,5 @@
 {
-  "name": "travel-site",
+  "name": "boxing-timer",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack-dev-server",
